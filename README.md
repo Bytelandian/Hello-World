@@ -10,3 +10,5 @@ o C++    <a href="https://ideone.com/SjHZIB">Run Online</a>
 o C 	 <a href="https://ideone.com/8EovdN">Run Online</a>
 
 o Python <a href="https://ideone.com/GjSDWp">Run Online</a>
+
+o Php	 <a href="http://ideone.com/0N3QXX">Run Online</a>
